@@ -36,7 +36,7 @@ shinyApp(
           f7Card(
             height=400,
             f7Align(h2(textOutput("word")),"center"),
-            f7Margin(p(textOutput("example")),side="top")),
+            f7Margin(h4(textOutput("example")),side="top")),
           f7Card(
             f7Block(
               hairline = TRUE,
@@ -77,21 +77,21 @@ shinyApp(
     
     ## default card
     output$category <- renderText({style_category(flashcard$category[idcard()])})
-    output$word <- renderText({flashcard$word[idcard()]})
+    output$definition <- renderText({flashcard$definition[idcard()]})
+    output$word <- renderText({" "})
     output$example <- renderText({" "})
-    output$definition <- renderText({" "})
     
     
     observeEvent(input$show, {
       state((state() +1)%%2)
       switch(as.character(state()),
         "0" = {
-          print(head(flashcard))
+          print("0")
           idcard(sample(nrow(flashcard),1))
           output$category <- renderText({style_category(flashcard$category[idcard()])})
           output$definition <- renderText({flashcard$definition[idcard()]})
+          output$word  <- renderText({" "})
           output$example <- renderText({" "})
-          output$definition <- renderText({" "})
           },
         "1" = {
           print("1")
