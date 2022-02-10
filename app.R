@@ -59,7 +59,7 @@ shinyApp(
   server = function(input, output, session) {
     
     # river plot
-    flashcard <- read.delim("../data/flashcard.csv",sep = ";")
+    flashcard <- read.delim("https://raw.githubusercontent.com/jaromilfrossard/flashcard/master/data/flashcard.csv",sep = ";")
 
     
     dates <- reactive(seq.Date(Sys.Date() - 30, Sys.Date(), by = input$by))
@@ -71,7 +71,6 @@ shinyApp(
       })
     
     state <- reactiveVal(0L) 
-    print("newstate")
     idcard <- reactiveVal(sample(nrow(flashcard),1))
     
     
