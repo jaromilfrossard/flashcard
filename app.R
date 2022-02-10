@@ -31,11 +31,12 @@ shinyApp(
           icon = f7Icon("play"),
           active = TRUE,
           f7Card(
-            f7Margin(p(textOutput("cat")),side="top"),
-            f7Align(h2(textOutput("faceA")),"center")),
+            f7Margin(p(textOutput("category")),side="top"),
+            f7Align(h2(textOutput("definition")),"center")),
           f7Card(
             height=400,
-            f7Align(h2(textOutput("faceB")),"center")),
+            f7Align(h2(textOutput("word")),"center"),
+            f7Margin(p(textOutput("example")),side="top")),
           f7Card(
             f7Block(
               hairline = TRUE,
@@ -75,22 +76,27 @@ shinyApp(
     
     
     ## default card
-    output$cat <- renderText({style_category(flashcard[idcard(),1])})
-    output$faceA <- renderText({flashcard[idcard(),2]})
-    output$faceB <- renderText({" "})
+    output$category <- renderText({style_category(flashcard$category[idcard()])})
+    output$word <- renderText({flashcard$word[idcard()]})
+    output$example <- renderText({" "})
+    output$definition <- renderText({" "})
     
     
     observeEvent(input$show, {
       state((state() +1)%%2)
       switch(as.character(state()),
         "0" = {
+          print(head(flashcard))
           idcard(sample(nrow(flashcard),1))
-          output$cat <- renderText({style_category(flashcard[idcard(),1])})
-          output$faceA <- renderText({flashcard[idcard(),2]})
-          output$faceB <- renderText({" "})
+          output$category <- renderText({style_category(flashcard$category[idcard()])})
+          output$definition <- renderText({flashcard$definition[idcard()]})
+          output$example <- renderText({" "})
+          output$definition <- renderText({" "})
           },
         "1" = {
-          output$faceB <- renderText({flashcard[idcard(),3]})
+          print("1")
+          output$word <- renderText({flashcard$word[idcard()]})
+          output$example <- renderText({flashcard$example[idcard()]})
         }
       )
     })
