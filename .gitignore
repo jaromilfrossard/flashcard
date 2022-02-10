@@ -3,8 +3,11 @@
 .RData
 .Ruserdata
 /data/raw/*
-dictionary.R
+/data/flashcard_pv.csv
+data_phrasalverb.R
+data_combine.R
 rvest.R
 .Rdata
 .httr-oauth
 .DS_Store
+rsconnect/*
