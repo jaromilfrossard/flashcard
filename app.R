@@ -7,6 +7,10 @@ style_category = function(x){
   paste0("{",x,"}")
 }
 
+flashcard <- read.delim("https://raw.githubusercontent.com/jaromilfrossard/flashcard/master/data/flashcard.csv",sep = ";")
+
+cbg_choices <- sort(c(unique(flashcard$category)))
+
 
 
 shinyApp(
@@ -14,13 +18,22 @@ shinyApp(
     title = "Flashcard",
     f7TabLayout(
       panels = tagList(
-        f7Panel(title = "Category", side = "left", theme = "light", "Blabla", effect = "cover")
+        f7Panel(title = "Category", 
+                side = "left", 
+                theme = "light", 
+                effect = "cover",
+                f7CheckboxGroup(
+                    inputId = "category_selector",
+                    label ="Select categories",
+                    choices = cbg_choices,
+                    selected = cbg_choices[1])
+        )
       ),
       navbar = f7Navbar(
         title = "Flashcard",
         hairline = TRUE,
         shadow = TRUE,
-        leftPanel = FALSE,
+        leftPanel = TRUE,
         rightPanel = FALSE
       ),
       f7Tabs(
@@ -32,10 +45,10 @@ shinyApp(
           active = TRUE,
           f7Card(
             f7Margin(p(textOutput("category")),side="top"),
-            f7Align(h2(textOutput("definition")),"center")),
+            f7Align(h2(textOutput("front")),"center")),
           f7Card(
             height=400,
-            f7Align(h2(textOutput("word")),"center"),
+            f7Align(h2(textOutput("back")),"center"),
             f7Margin(h4(textOutput("example")),side="top")),
           f7Card(
             f7Block(
@@ -60,25 +73,28 @@ shinyApp(
   server = function(input, output, session) {
     
     # river plot
-    flashcard <- read.delim("https://raw.githubusercontent.com/jaromilfrossard/flashcard/master/data/flashcard.csv",sep = ";")
+    
 
     
-    dates <- reactive(seq.Date(Sys.Date() - 30, Sys.Date(), by = input$by))
-    
-    
-    
-    output$flashcard <-renderUI({
-      f7Table(flashcard)
-      })
-    
     state <- reactiveVal(0L) 
+    current_cards <- reactiveVal(flashcard%>%filter(category%in%c(cbg_choices[1])))
     idcard <- reactiveVal(sample(nrow(flashcard),1))
+   
+    
+    observeEvent(input$category_selector,{
+      current_cards(flashcard%>%filter(category%in%c(input$category_selector)))
+
+      output$flashcard <-renderUI({
+        f7Table(current_cards())
+      })
+      
+    })
     
     
     ## default card
-    output$category <- renderText({style_category(flashcard$category[idcard()])})
-    output$definition <- renderText({flashcard$definition[idcard()]})
-    output$word <- renderText({" "})
+    output$category <- renderText({style_category(current_cards()$category[idcard()])})
+    output$front <- renderText({current_cards()$front[idcard()]})
+    output$back <- renderText({" "})
     output$example <- renderText({" "})
     
     
@@ -86,15 +102,15 @@ shinyApp(
       state((state() +1)%%2)
       switch(as.character(state()),
         "0" = {
-          idcard(sample(nrow(flashcard),1))
-          output$category <- renderText({style_category(flashcard$category[idcard()])})
-          output$definition <- renderText({flashcard$definition[idcard()]})
-          output$word  <- renderText({" "})
+          idcard(sample(nrow(current_cards()),1))
+          output$category <- renderText({style_category(current_cards()$category[idcard()])})
+          output$front <- renderText({current_cards()$front[idcard()]})
+          output$back  <- renderText({" "})
           output$example <- renderText({" "})
           },
         "1" = {
-          output$word <- renderText({flashcard$word[idcard()]})
-          output$example <- renderText({flashcard$example[idcard()]})
+          output$back <- renderText({current_cards()$back[idcard()]})
+          output$example <- renderText({current_cards()$example[idcard()]})
         }
       )
     })
