@@ -4,5 +4,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of flashcard is to ...
+flashcard is a web app to learn english.
+
+
 

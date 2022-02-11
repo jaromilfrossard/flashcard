@@ -86,7 +86,6 @@ shinyApp(
       state((state() +1)%%2)
       switch(as.character(state()),
         "0" = {
-          print("0")
           idcard(sample(nrow(flashcard),1))
           output$category <- renderText({style_category(flashcard$category[idcard()])})
           output$definition <- renderText({flashcard$definition[idcard()]})
@@ -94,7 +93,6 @@ shinyApp(
           output$example <- renderText({" "})
           },
         "1" = {
-          print("1")
           output$word <- renderText({flashcard$word[idcard()]})
           output$example <- renderText({flashcard$example[idcard()]})
         }
