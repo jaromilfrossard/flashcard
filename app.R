@@ -3,6 +3,7 @@ library(shinyMobile)
 library(shinyWidgets)
 library(dplyr)
 library(tidyr)
+library(stringr)
 
 style_category = function(x){
   paste0("{",x,"}")
@@ -50,7 +51,7 @@ shinyApp(
           f7Card(
             height=400,
             f7Align(h2(textOutput("back")),"center"),
-            f7Margin(h4(textOutput("example")),side="top")),
+            f7Margin(h4(htmlOutput("example")),side="top")),
           f7Card(
             f7Block(
               hairline = TRUE,
