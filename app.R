@@ -1,7 +1,8 @@
 library(shiny)
 library(shinyMobile)
 library(shinyWidgets)
-library(apexcharter)
+library(dplyr)
+library(tidyr)
 
 style_category = function(x){
   paste0("{",x,"}")
@@ -75,10 +76,9 @@ shinyApp(
     # river plot
     
 
-    
     state <- reactiveVal(0L) 
     current_cards <- reactiveVal(flashcard%>%filter(category%in%c(cbg_choices[1])))
-    idcard <- reactiveVal(sample(nrow(flashcard),1))
+    idcard <- reactiveVal(sample(nrow(flashcard%>%filter(category%in%c(cbg_choices[1]))),1))
    
     
     observeEvent(input$category_selector,{
