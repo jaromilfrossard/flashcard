@@ -9,7 +9,9 @@ style_category = function(x){
   paste0("{",x,"}")
 }
 
-flashcard <- read.delim("https://raw.githubusercontent.com/jaromilfrossard/flashcard/master/data/flashcard.csv",sep = ";")
+flashcard <- read.delim("https://raw.githubusercontent.com/jaromilfrossard/flashcard/master/data/flashcard.csv",sep = ";")%>%
+  mutate(across(everything(.),str_replace_all,pattern = fixed("\\n"),replacement=fixed("<br/>")))%>%
+  mutate(across(everything(.),str_replace_all,pattern = fixed("\n"),replacement=fixed("<br/>"))) 
 
 cbg_choices <- sort(c(unique(flashcard$category)))
 
@@ -86,7 +88,8 @@ shinyApp(
       current_cards(flashcard%>%filter(category%in%c(input$category_selector)))
 
       output$flashcard <-renderUI({
-        f7Table(current_cards())
+        f7Table(current_cards()%>%
+                  mutate(across(everything(.),str_replace_all,pattern = fixed("<br/>"),replacement=fixed(" "))))
       })
       
     })
