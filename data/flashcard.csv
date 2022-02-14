@@ -1,120 +1,365 @@
 "category";"front";"back";"example"
-"adjective + preposition";"afraid";"of";""
-"adjective + preposition";"angry";"about";""
-"adjective + preposition";"anxious";"about";""
-"adjective + preposition";"bad";"at";""
-"adjective + preposition";"bored";"with";""
-"adjective + preposition";"crowded";"with";""
-"adjective + preposition";"different";"from";""
-"adjective + preposition";"enthusiastic";"about";""
-"adjective + preposition";"excited";"about";""
-"adjective + preposition";"fed up";"with";""
-"adjective + preposition";"furious";"about";""
-"adjective + preposition";"good";"at";""
-"adjective + preposition";"happy";"about";""
-"adjective + preposition";"interested";"in";""
-"adjective + preposition";"mad";"about";""
-"adjective + preposition";"pessimistic";"about";""
-"adjective + preposition";"responsible";"for";""
-"adjective + preposition";"sad";"about";""
-"adjective + preposition";"serious";"about";""
-"adjective + preposition";"shocked";"at/by";""
-"adjective + preposition";"sick (tired)";"of";""
-"adjective + preposition";"similar";"to";""
-"adjective + preposition";"sorry";"for someone, for/about what happen";""
-"adjective + preposition";"surprise";"at/by";""
-"adjective + preposition";"tired";"of";""
-"adjective + preposition";"upset";"at/by";""
-"adjective + preposition";"worried";"about";""
-"noun + preposition";"access";"to";""
-"noun + preposition";"addicition";"to";""
-"noun + preposition";"address";"of";""
-"noun + preposition";"admiration";"for";""
+"adjective + preposition";"absent";"from";"test
+test"
+"adjective + preposition";"accustomed";"to";"test
+test"
+"adjective + preposition";"addicted";"to";"test
+test"
+"adjective + preposition";"afraid";"of";"test
+test"
+"adjective + preposition";"allergic";"to";"test
+test"
+"adjective + preposition";"amazed";"at/by";"Amazed at + something.\nAmazed by + somebody."
+"adjective + preposition";"angry";"about/at/with";"Angry about/at something.\nAngry with somebody."
+"adjective + preposition";"annoyed";"at";"test
+test"
+"adjective + preposition";"anxious";"about";"test
+test"
+"adjective + preposition";"ashamed";"of";"test
+test"
+"adjective + preposition";"associated";"with";"test
+test"
+"adjective + preposition";"astonished";"by";"test
+test"
+"adjective + preposition";"aware";"of";"test
+test"
+"adjective + preposition";"bad";"at";"test
+test"
+"adjective + preposition";"blessed";"with";"test
+test"
+"adjective + preposition";"bored";"with";"test
+test"
+"adjective + preposition";"brilland";"at";"test
+test"
+"adjective + preposition";"capable";"of";"test
+test"
+"adjective + preposition";"certain";"of";"test
+test"
+"adjective + preposition";"clever";"at";"test
+test"
+"adjective + preposition";"committed";"to";"test
+test"
+"adjective + preposition";"confronted";"with";"test
+test"
+"adjective + preposition";"conscious";"of";"test
+test"
+"adjective + preposition";"content";"with";"test
+test"
+"adjective + preposition";"crowded";"with";"test
+test"
+"adjective + preposition";"dedicated";"to";"test
+test"
+"adjective + preposition";"delighted";"at/by/with";"I am delighted with you house.\nI am delighted by/at this news."
+"adjective + preposition";"different";"from";"test
+test"
+"adjective + preposition";"disappointed";"in/with";"in/with + something/someone"
+"adjective + preposition";"eager";"for";"test
+test"
+"adjective + preposition";"eligible";"for";"test
+test"
+"adjective + preposition";"enthusiastic";"about";"test
+test"
+"adjective + preposition";"envious";"of";"test
+test"
+"adjective + preposition";"excellent";"at";"test
+test"
+"adjective + preposition";"excited";"about/at/by";"test
+test"
+"adjective + preposition";"experienced";"in";"test
+test"
+"adjective + preposition";"familiar";"with";"test
+test"
+"adjective + preposition";"famouse";"for";"test
+test"
+"adjective + preposition";"fascinated";"by";"test
+test"
+"adjective + preposition";"fed up";"with";"test
+test"
+"adjective + preposition";"free";"from";"test
+test"
+"adjective + preposition";"furious";"about/with";"Furious about something.\nFurious with somebody."
+"adjective + preposition";"good";"at";"test
+test"
+"adjective + preposition";"grateful";"for";"test
+test"
+"adjective + preposition";"happy";"about";"test
+test"
+"adjective + preposition";"hopeless";"at";"test
+test"
+"adjective + preposition";"impressed";"by";"test
+test"
+"adjective + preposition";"independant";"of";"test
+test"
+"adjective + preposition";"indifferent";"to";"test
+test"
+"adjective + preposition";"inspired";"by";"test
+test"
+"adjective + preposition";"interested";"in";"test
+test"
+"adjective + preposition";"involved";"in";"test
+test"
+"adjective + preposition";"jealous";"of";"test
+test"
+"adjective + preposition";"kind";"of/to";"It was kind of strange.\nIt is very kind of you to help us.\nBe kind to your brother."
+"adjective + preposition";"lucky";"at";"test
+test"
+"adjective + preposition";"mad";"at/about";"Mad at you = negative. Mad about you = crazy, positive."
+"adjective + preposition";"made";"from";"test
+test"
+"adjective + preposition";"married";"to";"test
+test"
+"adjective + preposition";"nice";"of";"test
+test"
+"adjective + preposition";"notorious";"for";"test
+test"
+"adjective + preposition";"ok";"with";"test
+test"
+"adjective + preposition";"opposed";"to";"test
+test"
+"adjective + preposition";"pessimistic";"about";"test
+test"
+"adjective + preposition";"pleased";"with";"test
+test"
+"adjective + preposition";"polite/impolite";"in";"test
+test"
+"adjective + preposition";"popular";"with";"test
+test"
+"adjective + preposition";"prepared";"for";"test
+test"
+"adjective + preposition";"present";"at/in";"test
+test"
+"adjective + preposition";"protected";"from";"test
+test"
+"adjective + preposition";"proud";"of";"test
+test"
+"adjective + preposition";"ready";"for";"test
+test"
+"adjective + preposition";"receptive";"to";"test
+test"
+"adjective + preposition";"related";"to";"test
+test"
+"adjective + preposition";"renowned";"for";"test
+test"
+"adjective + preposition";"respected";"for";"test
+test"
+"adjective + preposition";"responsible";"for";"test
+test"
+"adjective + preposition";"sad";"about";"test
+test"
+"adjective + preposition";"safe";"from";"test
+test"
+"adjective + preposition";"satisfied";"with";"test
+test"
+"adjective + preposition";"scared";"of";"test
+test"
+"adjective + preposition";"serious";"about";"test
+test"
+"adjective + preposition";"shocked";"at/by";"at = what is shocking, by = because you feel shocked."
+"adjective + preposition";"sick (tired)";"of";"test
+test"
+"adjective + preposition";"silly";"of";"test
+test"
+"adjective + preposition";"similar";"to";"test
+test"
+"adjective + preposition";"skilled";"at";"at doing something,\nin something."
+"adjective + preposition";"slow";"at";"test
+test"
+"adjective + preposition";"sorry";"for someone, for/about what happen";"test
+test"
+"adjective + preposition";"successful";"at/in";"at: generalization.\nin: particular event"
+"adjective + preposition";"suitable";"for";"test
+test"
+"adjective + preposition";"superior";"to";"test
+test"
+"adjective + preposition";"surprised";"at/by";"test
+test"
+"adjective + preposition";"sweet";"of";"test
+test"
+"adjective + preposition";"talented";"in";"test
+test"
+"adjective + preposition";"terrible";"at";"test
+test"
+"adjective + preposition";"thankful";"for";"test
+test"
+"adjective + preposition";"tired";"of";"test
+test"
+"adjective + preposition";"typical";"of";"test
+test"
+"adjective + preposition";"unfriendly";"to";"test
+test"
+"adjective + preposition";"upset";"at/by";"test
+test"
+"adjective + preposition";"worried";"about";"test
+test"
+"noun + preposition";"access";"to";"test
+test"
+"noun + preposition";"addicition";"to";"test
+test"
+"noun + preposition";"address";"of";"test
+test"
+"noun + preposition";"admiration";"for";"test
+test"
 "noun + preposition";"advantage";"of";"warning with be: There are many advantage in/to living in CH. BUT: The advantage of living"
-"noun + preposition";"advertisement";"for";""
-"noun + preposition";"allusion";"to";""
-"noun + preposition";"approach";"to";""
-"noun + preposition";"approval";"for";""
+"noun + preposition";"advertisement";"for";"test
+test"
+"noun + preposition";"allusion";"to";"test
+test"
+"noun + preposition";"approach";"to";"test
+test"
+"noun + preposition";"approval";"for";"test
+test"
 "noun + preposition";"argument";"with/for/against";"an argument for/against an idea.\nAn argument with someone."
-"noun + preposition";"attitude";"to";""
-"noun + preposition";"awareness";"of";""
-"noun + preposition";"belief";"in";""
-"noun + preposition";"bid";"for";""
+"noun + preposition";"attitude";"to";"test
+test"
+"noun + preposition";"awareness";"of";"test
+test"
+"noun + preposition";"belief";"in";"test
+test"
+"noun + preposition";"bid";"for";"test
+test"
 "noun + preposition";"case";"for";"The report makes out a strong case for spending more money."
-"noun + preposition";"cause";"of";""
+"noun + preposition";"cause";"of";"test
+test"
 "noun + preposition";"change";"in/to";"A change in state/trajectory.\nA change to the constitution."
-"noun + preposition";"concern";"with";""
-"noun + preposition";"connection";"with";""
-"noun + preposition";"contact";"with";""
-"noun + preposition";"contribution";"to";""
+"noun + preposition";"concern";"with";"test
+test"
+"noun + preposition";"connection";"with";"test
+test"
+"noun + preposition";"contact";"with";"test
+test"
+"noun + preposition";"contribution";"to";"test
+test"
 "noun + preposition";"course in";"in";"a course in math"
-"noun + preposition";"credit";"for";""
-"noun + preposition";"cure";"for";""
-"noun + preposition";"damage";"to";""
-"noun + preposition";"date";"with";""
-"noun + preposition";"decrease";"in";""
-"noun + preposition";"dedication";"to";""
-"noun + preposition";"delay";"in";""
-"noun + preposition";"demand";"for";""
+"noun + preposition";"credit";"for";"test
+test"
+"noun + preposition";"cure";"for";"test
+test"
+"noun + preposition";"damage";"to";"test
+test"
+"noun + preposition";"date";"with";"test
+test"
+"noun + preposition";"decrease";"in";"test
+test"
+"noun + preposition";"dedication";"to";"test
+test"
+"noun + preposition";"delay";"in";"test
+test"
+"noun + preposition";"demand";"for";"test
+test"
 "noun + preposition";"desire";"for/to";"A desire for world peace. A desire to do something."
-"noun + preposition";"devotion";"to";""
-"noun + preposition";"difference";"in";""
-"noun + preposition";"difficulty";"with";""
-"noun + preposition";"disadvantage";"of";""
-"noun + preposition";"example";"of";""
-"noun + preposition";"exhibition";"of";""
+"noun + preposition";"devotion";"to";"test
+test"
+"noun + preposition";"difference";"in";"test
+test"
+"noun + preposition";"difficulty";"with";"test
+test"
+"noun + preposition";"disadvantage";"of";"test
+test"
+"noun + preposition";"example";"of";"test
+test"
+"noun + preposition";"exhibition";"of";"test
+test"
 "noun + preposition";"experience";"in/of/with";"An experience in hunger: I suffered from hunger.\nAn experience in psychology.\nHaving experience (in working) with children.\nHaving experience with a tool."
-"noun + preposition";"fall";"in";""
-"noun + preposition";"fear";"of";""
-"noun + preposition";"fondness";"for";""
-"noun + preposition";"grasp";"of";""
-"noun + preposition";"growth";"in";""
-"noun + preposition";"habit";"of";""
-"noun + preposition";"hatred";"for";""
-"noun + preposition";"interest";"in";""
-"noun + preposition";"invitation";"to";""
-"noun + preposition";"involvement";"with";""
-"noun + preposition";"knowledge";"of";""
-"noun + preposition";"lesson";"in";""
-"noun + preposition";"link";"with";""
+"noun + preposition";"fall";"in";"test
+test"
+"noun + preposition";"fear";"of";"test
+test"
+"noun + preposition";"fondness";"for";"test
+test"
+"noun + preposition";"grasp";"of";"test
+test"
+"noun + preposition";"growth";"in";"test
+test"
+"noun + preposition";"habit";"of";"test
+test"
+"noun + preposition";"hatred";"for";"test
+test"
+"noun + preposition";"interest";"in";"test
+test"
+"noun + preposition";"invitation";"to";"test
+test"
+"noun + preposition";"involvement";"with";"test
+test"
+"noun + preposition";"knowledge";"of";"test
+test"
+"noun + preposition";"lesson";"in";"test
+test"
+"noun + preposition";"link";"with";"test
+test"
 "noun + preposition";"love";"for/of";"A love for cats: he loves only cats.\nA love of cats: his love includes cats."
-"noun + preposition";"meeting";"with";""
-"noun + preposition";"member";"of";""
-"noun + preposition";"memory";"of";""
-"noun + preposition";"method";"of";""
-"noun + preposition";"need";"for";""
-"noun + preposition";"newcomer";"to";""
-"noun + preposition";"participation";"in";""
-"noun + preposition";"place";"in";""
-"noun + preposition";"possibility";"of";""
-"noun + preposition";"preference";"for";""
-"noun + preposition";"problem";"of";""
-"noun + preposition";"process";"of";""
-"noun + preposition";"quarrel";"with";""
-"noun + preposition";"reason";"to/for";""
-"noun + preposition";"recipe";"for";""
-"noun + preposition";"reference";"to";""
-"noun + preposition";"relationship";"with";""
-"noun + preposition";"relevance";"of";""
-"noun + preposition";"reputation";"for";""
-"noun + preposition";"resistance";"to";""
-"noun + preposition";"respect";"for";""
-"noun + preposition";"response";"to";""
-"noun + preposition";"responsibility";"for";""
-"noun + preposition";"rise";"in";""
-"noun + preposition";"risk";"of";""
-"noun + preposition";"room";"for";""
-"noun + preposition";"search";"for";""
-"noun + preposition";"solution";"to";""
-"noun + preposition";"success";"in";""
-"noun + preposition";"sympathy";"with";""
-"noun + preposition";"talent";"for";""
-"noun + preposition";"thirst";"for";""
-"noun + preposition";"transition";"to";""
-"noun + preposition";"understanding";"of";""
-"noun + preposition";"visit";"to";""
+"noun + preposition";"meeting";"with";"test
+test"
+"noun + preposition";"member";"of";"test
+test"
+"noun + preposition";"memory";"of";"test
+test"
+"noun + preposition";"method";"of";"test
+test"
+"noun + preposition";"need";"for";"test
+test"
+"noun + preposition";"newcomer";"to";"test
+test"
+"noun + preposition";"participation";"in";"test
+test"
+"noun + preposition";"place";"in";"test
+test"
+"noun + preposition";"possibility";"of";"test
+test"
+"noun + preposition";"preference";"for";"test
+test"
+"noun + preposition";"problem";"of";"test
+test"
+"noun + preposition";"process";"of";"test
+test"
+"noun + preposition";"quarrel";"with";"test
+test"
+"noun + preposition";"reason";"to/for";"test
+test"
+"noun + preposition";"recipe";"for";"test
+test"
+"noun + preposition";"reference";"to";"test
+test"
+"noun + preposition";"relationship";"with";"test
+test"
+"noun + preposition";"relevance";"of";"test
+test"
+"noun + preposition";"reputation";"for";"test
+test"
+"noun + preposition";"resistance";"to";"test
+test"
+"noun + preposition";"respect";"for";"test
+test"
+"noun + preposition";"response";"to";"test
+test"
+"noun + preposition";"responsibility";"for";"test
+test"
+"noun + preposition";"rise";"in";"test
+test"
+"noun + preposition";"risk";"of";"test
+test"
+"noun + preposition";"room";"for";"test
+test"
+"noun + preposition";"search";"for";"test
+test"
+"noun + preposition";"solution";"to";"test
+test"
+"noun + preposition";"success";"in";"test
+test"
+"noun + preposition";"sympathy";"with";"test
+test"
+"noun + preposition";"talent";"for";"test
+test"
+"noun + preposition";"thirst";"for";"test
+test"
+"noun + preposition";"transition";"to";"test
+test"
+"noun + preposition";"understanding";"of";"test
+test"
+"noun + preposition";"visit";"to";"test
+test"
 "noun + preposition";"way";"of";"the way of doing something"
-"phrasal verb";"(in bookkeeping) transfer a total sum from the bottom of one page to the top of the next.";"bring forward";""
+"phrasal verb";"(in bookkeeping) transfer a total sum from the bottom of one page to the top of the next.";"bring forward";"test
+test"
 "phrasal verb";"(of a breastfeeding baby) get its mouth into the correct position around the nipple.";"latch on";"Jamie wasn't latching on properly, and my nipple got sorer and sorer"
 "phrasal verb";"(of a building or other structure) have its back facing or adjacent to something.";"back on to";"his garage wall backs on to the neighbouring property"
 "phrasal verb";"(of a building or other structure) have its back facing or adjacent to something.";"back on to";"his garage wall backs on to the neighbouring property"
@@ -191,7 +436,8 @@
 "phrasal verb";"begin to dislike someone, typically for no strong or obvious reason.";"take against";"from the moment he arrived, they took against him"
 "phrasal verb";"behave badly.";"act up";"all children talk back and act up from time to time"
 "phrasal verb";"behave in a silly or playful way.";"mess around";"he lay there snoring so I thought he was messing around and told him to get up"
-"phrasal verb";"behave in a stupid way; waste time.";"arse around";""
+"phrasal verb";"behave in a stupid way; waste time.";"arse around";"test
+test"
 "phrasal verb";"break one's journey.";"lay over";"Steven and I will lay over in New York, then fly to London"
 "phrasal verb";"break up, come apart, or disintegrate.";"fall apart";"their marriage is likely to fall apart"
 "phrasal verb";"bribe or unfairly influence someone.";"get at";"he had been got at by government officials"
@@ -214,14 +460,16 @@
 "phrasal verb";"cause someone to remain in a state of oppression or subjection.";"keep under";"the local people are kept under by the army"
 "phrasal verb";"cause something to remain at a low level.";"keep down";"the population of aphids is normally kept down by other animals"
 "phrasal verb";"celebrate or wish for the good fortune of someone or something by raising one's glass and drinking a small amount.";"drink to";"let's drink to the success of our venture"
-"phrasal verb";"challenge someone to a duel.";"call out";""
+"phrasal verb";"challenge someone to a duel.";"call out";"test
+test"
 "phrasal verb";"change to a new position, especially to avoid causing an obstruction.";"move along";"‘Move along, move along,’ said the constable"
 "phrasal verb";"cheat, swindle, or exploit someone.";"screw over";"I told the company that was trying to screw me over to get lost"
 "phrasal verb";"choose to participate in something.";"opt in";"the database would not include a person's name unless he opted in"
 "phrasal verb";"come closer to a person or thing pursued.";"gain on";"a huge bear was gaining on him with every stride"
 "phrasal verb";"come to nothing; fail.";"fall through";"the project fell through due to lack of money"
 "phrasal verb";"communicate something effectively.";"put across";"our group must put across its views and gain popular support"
-"phrasal verb";"completely transform or remodel someone or something, especially a person's hairstyle, make-up, or clothes.";"make over";""
+"phrasal verb";"completely transform or remodel someone or something, especially a person's hairstyle, make-up, or clothes.";"make over";"test
+test"
 "phrasal verb";"confine someone indoors or in a particular place.";"keep in";"he should be kept in overnight for observation"
 "phrasal verb";"confront and deal with or accept a difficult or unpleasant task, fact, or situation.";"face up to";"the prime minister needs to face up to the consequences of her policies"
 "phrasal verb";"connect up a computer or electronic device.";"jack in";"I jacked my laptop in and connected to the default IP"
@@ -244,7 +492,8 @@
 "phrasal verb";"discreetly store or save something, especially money.";"salt away";"they salted the money away in numbered bank accounts around the world"
 "phrasal verb";"discuss something thoroughly.";"talk through";"he needed to spend time talking through his feelings"
 "phrasal verb";"dismantle and remove a structure.";"take down";"the old Norman church was taken down in 1819"
-"phrasal verb";"dismantle something.";"take apart";""
+"phrasal verb";"dismantle something.";"take apart";"test
+test"
 "phrasal verb";"dismiss something as being unimportant or not worth consideration; disregard something.";"brush aside";"he brushed aside attacks on his policies"
 "phrasal verb";"draw back from action or confrontation.";"back off";"just back off and leave me alone"
 "phrasal verb";"draw critical attention to someone's unacceptable actions or behaviour.";"call out";"people were calling him out for his negative comments"
@@ -260,7 +509,8 @@
 "phrasal verb";"extend beyond the original area of application.";"carry over";"his artistic practice is clearly carrying over into his social thought"
 "phrasal verb";"fail to keep up with one's competitors.";"fall behind";"Britain has fallen behind in the space business"
 "phrasal verb";"fail to take something into account.";"reckon without";"they reckoned without her courage and determination"
-"phrasal verb";"fasten something securely with nails.";"nail down";""
+"phrasal verb";"fasten something securely with nails.";"nail down";"test
+test"
 "phrasal verb";"finish or use up a large amount or number of something, especially within a short time.";"get through";"we got through four whole jars of mustard"
 "phrasal verb";"fool about.";"screw around";"I just screw around with sound effects and music"
 "phrasal verb";"force someone to retreat.";"beat back";"I tried to get in but was beaten back by the flames"
@@ -279,8 +529,10 @@
 "phrasal verb";"hand over or provide what is wanted.";"come across";"she has come across with some details"
 "phrasal verb";"happen without being noticed or fully experienced by someone.";"pass by";"sometimes I feel that life is passing me by"
 "phrasal verb";"have a harmonious or friendly relationship.";"get along";"they seem to get along pretty well"
-"phrasal verb";"have a meal at home rather than in a restaurant.";"eat in";""
-"phrasal verb";"have many different sexual partners.";"screw around";""
+"phrasal verb";"have a meal at home rather than in a restaurant.";"eat in";"test
+test"
+"phrasal verb";"have many different sexual partners.";"screw around";"test
+test"
 "phrasal verb";"have recourse to something when in difficulty.";"fall back on";"they normally fell back on one of three arguments"
 "phrasal verb";"identify something precisely.";"nail down";"something seems unexpected—I can't nail it down, but it makes me uneasy"
 "phrasal verb";"imply something.";"get at";"I can see what you're getting at"
@@ -308,7 +560,8 @@
 "phrasal verb";"manage to live or survive.";"get along";"don't worry, we'll get along without you"
 "phrasal verb";"manage with difficulty to live or accomplish something.";"get by";"he had just enough money to get by"
 "phrasal verb";"manage without something.";"do without";"I could do without food for a day"
-"phrasal verb";"masturbate.";"jack off";""
+"phrasal verb";"masturbate.";"jack off";"test
+test"
 "phrasal verb";"meet or find someone by chance.";"run across";"I just thought you might have run across him before"
 "phrasal verb";"meet or find someone or something by chance.";"come across";"I came across these old photos recently"
 "phrasal verb";"meet someone by chance and become involved with them.";"fall in with";"he fell in with thieves"
@@ -319,7 +572,8 @@
 "phrasal verb";"offer one's help or services.";"step forward";"a company has stepped forward to sponsor the team"
 "phrasal verb";"offer something to each of a number of people in turn.";"hand round";"a big box of chocolates was handed round"
 "phrasal verb";"order a person or dog to stop attacking someone.";"call off";"Gunda pleaded with him to call the dog off"
-"phrasal verb";"order or advise workers to strike.";"call out";""
+"phrasal verb";"order or advise workers to strike.";"call out";"test
+test"
 "phrasal verb";"originate in something; have something as its source.";"come from";"the word caviar comes from Italian"
 "phrasal verb";"pass a difficult or testing experience or period.";"get through";"he just did what was needed to get through"
 "phrasal verb";"pass into a specified state, situation, or position.";"fall into";"many of the buildings fell into disrepair"
@@ -345,7 +599,8 @@
 "phrasal verb";"prosecute or convict someone for a crime.";"do for";"we got done for conspiracy to cause GBH"
 "phrasal verb";"provide someone with a regular supply of a commodity.";"keep in";"the money should keep him in cigarettes for a week"
 "phrasal verb";"publicly ask for or demand something.";"call for";"the report calls for an audit of endangered species"
-"phrasal verb";"pursue someone.";"make after";""
+"phrasal verb";"pursue someone.";"make after";"test
+test"
 "phrasal verb";"put a plan or idea into effect.";"carry through";"policy blueprints are rarely carried through perfectly"
 "phrasal verb";"put something to one side.";"lay aside";"he laid aside his book"
 "phrasal verb";"ransack a place, especially while searching for something worth stealing.";"do over";"her flat had been done over—the evidence was all too clear"
@@ -384,7 +639,8 @@
 "phrasal verb";"separate something and keep it for a special purpose.";"set apart";"there were books and rooms set apart as libraries"
 "phrasal verb";"settle accounts with someone.";"reckon with";"I reckoned with my master, and I think I had a shilling and some few halfpence to take"
 "phrasal verb";"spend time aimlessly; wait around.";"hang around";"undercover officers spent most of their time hanging around"
-"phrasal verb";"spend time doing stupid or unimportant things.";"piss around";""
+"phrasal verb";"spend time doing stupid or unimportant things.";"piss around";"test
+test"
 "phrasal verb";"start discussing a subject extensively.";"get into";"I don't want to get into it until we have more concrete information"
 "phrasal verb";"stay away.";"keep away";"keep away from the edge of the cliff"
 "phrasal verb";"stay hidden by crouching or lying down.";"keep down";"Keep down! There's someone coming"
@@ -406,7 +662,8 @@
 "phrasal verb";"tend to result in or be received as a particular thing.";"make for";"job descriptions never make for exciting reading"
 "phrasal verb";"transfer figures to a new page or account.";"carry forward";"they allowed the deficit to be carried forward"
 "phrasal verb";"transfer figures to a new page or account.";"carry over";"only 47 per cent said they carried a balance over from one month to the next"
-"phrasal verb";"transfer text to the next line.";"take over";""
+"phrasal verb";"transfer text to the next line.";"take over";"test
+test"
 "phrasal verb";"transfer the possession of something to someone.";"make over";"if he dies childless he is to make over his share of the estate to his brother"
 "phrasal verb";"treat or deal with someone in a specified way.";"do by";"he slipped away almost unnoticed, leaving Matt feeling that somehow they had done badly by the old man"
 "phrasal verb";"turn one's head or body around sharply.";"screw around";"he screwed his head around to try and find the enemy"
@@ -418,7 +675,8 @@
 "phrasal verb";"walk round a place or building in order to view any interesting features.";"look round";"he spent the day looking round Edinburgh"
 "phrasal verb";"wear something away; gradually erode something.";"eat away";"the bacteria produce an acid that eats away the enamel coating that protects teeth"
 "phrasal verb";"will or would not allow or agree to something.";"hear of";"I won't hear of such idiocy"
-"phrasal verb";"win after lagging.";"come from behind";""
+"phrasal verb";"win after lagging.";"come from behind";"test
+test"
 "phrasal verb";"win an award or prize.";"walk away with";"the team walked away with the gold medal"
 "phrasal verb";"with the face or surface turned towards the ground.";"face down";"he lay face down on his bed"
 "phrasal verb";"withdraw a claim or assertion in the face of opposition.";"back down";"party leaders backed down and rescinded the resolution"
@@ -427,143 +685,257 @@
 "phrasal verb";"write down spoken words.";"take down";"I took down the address"
 "phrasal verb";"write something down.";"get down";"it's so obvious, but I wanted to get it down on paper"
 "verb + preposition";"absorb";"in";"He is absorbed in his book."
-"verb + preposition";"account";"for";""
-"verb + preposition";"accuse";"of -ing";""
-"verb + preposition";"acquaint";"with";""
-"verb + preposition";"add";"to";""
-"verb + preposition";"admit";"to";""
+"verb + preposition";"account";"for";"test
+test"
+"verb + preposition";"accuse";"of -ing";"test
+test"
+"verb + preposition";"acquaint";"with";"test
+test"
+"verb + preposition";"add";"to";"test
+test"
+"verb + preposition";"admit";"to";"test
+test"
 "verb + preposition";"agree";"on/with";"I agree with you that pizza is the best food.\nI agree with your approach.\nEveryone agree on this topic."
-"verb + preposition";"allow";"for";""
-"verb + preposition";"answer";"to";""
+"verb + preposition";"allow";"for";"test
+test"
+"verb + preposition";"answer";"to";"test
+test"
 "verb + preposition";"apologize";"for/to";"He apologizes for something to someone"
-"verb + preposition";"appeal";"to";""
+"verb + preposition";"appeal";"to";"test
+test"
 "verb + preposition";"argue";"about";"Arguing about something"
-"verb + preposition";"arrive";"in";""
+"verb + preposition";"arrive";"in";"test
+test"
 "verb + preposition";"ask";"about/for/to";"He asks about someone: he want to get news.\nHe asks for a tool.\nHe ask to do something."
-"verb + preposition";"associate";"with";""
-"verb + preposition";"attend";"to";""
-"verb + preposition";"attribute";"to";""
+"verb + preposition";"associate";"with";"test
+test"
+"verb + preposition";"attend";"to";"test
+test"
+"verb + preposition";"attribute";"to";"test
+test"
 "verb + preposition";"bar";"from";"He bars his kid from watching TV."
 "verb + preposition";"base";"on";"I base my opinion on science."
 "verb + preposition";"be";"for";"I am for the red team."
-"verb + preposition";"believe";"in";""
-"verb + preposition";"belong";"to";""
-"verb + preposition";"benefit";"from";""
+"verb + preposition";"believe";"in";"test
+test"
+"verb + preposition";"belong";"to";"test
+test"
+"verb + preposition";"benefit";"from";"test
+test"
 "verb + preposition";"blame";"for";"I blame you for the broken glass."
 "verb + preposition";"boast";"about";"He boasts about his new car."
-"verb + preposition";"borrow";"from";""
+"verb + preposition";"borrow";"from";"test
+test"
 "verb + preposition";"care";"about/for";"He cares about me.\nHe doesn't care for playing football."
 "verb + preposition";"charge";"for/with";"Charging for money.\nCharging with a crime."
-"verb + preposition";"choose";"from";""
+"verb + preposition";"choose";"from";"test
+test"
 "verb + preposition";"clutter";"with";"The apartment is cluttered with trash"
-"verb + preposition";"coincide";"with";""
-"verb + preposition";"collide";"with";""
-"verb + preposition";"come";"from";""
-"verb + preposition";"comment";"on";""
-"verb + preposition";"commit";"to";""
-"verb + preposition";"compare";"with";""
-"verb + preposition";"complain";"to";""
-"verb + preposition";"comply";"with";""
-"verb + preposition";"concentrate";"on";""
-"verb + preposition";"confess";"to";""
+"verb + preposition";"coincide";"with";"test
+test"
+"verb + preposition";"collide";"with";"test
+test"
+"verb + preposition";"come";"from";"test
+test"
+"verb + preposition";"comment";"on";"test
+test"
+"verb + preposition";"commit";"to";"test
+test"
+"verb + preposition";"compare";"with";"test
+test"
+"verb + preposition";"complain";"to";"test
+test"
+"verb + preposition";"comply";"with";"test
+test"
+"verb + preposition";"concentrate";"on";"test
+test"
+"verb + preposition";"confess";"to";"test
+test"
 "verb + preposition";"confide";"in";"He confides in his best friend."
-"verb + preposition";"confront";"with";""
-"verb + preposition";"confuse";"with";""
-"verb + preposition";"congratuate";"for";""
-"verb + preposition";"congratulate";"on";""
-"verb + preposition";"contribute";"to";""
+"verb + preposition";"confront";"with";"test
+test"
+"verb + preposition";"confuse";"with";"test
+test"
+"verb + preposition";"congratuate";"for";"test
+test"
+"verb + preposition";"congratulate";"on";"test
+test"
+"verb + preposition";"contribute";"to";"test
+test"
 "verb + preposition";"count";"for/on";"counting on someone.\nYour action count for something."
-"verb + preposition";"cover";"with";""
+"verb + preposition";"cover";"with";"test
+test"
 "verb + preposition";"cram";"with";"My bag is crammed with groceries."
-"verb + preposition";"deal";"with";""
-"verb + preposition";"decide";"about";""
-"verb + preposition";"depend";"on";""
-"verb + preposition";"derive";"from";""
+"verb + preposition";"deal";"with";"test
+test"
+"verb + preposition";"decide";"about";"test
+test"
+"verb + preposition";"depend";"on";"test
+test"
+"verb + preposition";"derive";"from";"test
+test"
 "verb + preposition";"deter";"from";"He deters his children from biking to school."
-"verb + preposition";"devote";"to";""
-"verb + preposition";"differ";"from";""
-"verb + preposition";"discuss";"with";""
-"verb + preposition";"distinguish";"from";""
-"verb + preposition";"distract";"from";""
-"verb + preposition";"dream";"about";""
+"verb + preposition";"devote";"to";"test
+test"
+"verb + preposition";"differ";"from";"test
+test"
+"verb + preposition";"discuss";"with";"test
+test"
+"verb + preposition";"distinguish";"from";"test
+test"
+"verb + preposition";"distract";"from";"test
+test"
+"verb + preposition";"dream";"about";"test
+test"
 "verb + preposition";"earmark";"for";"The government earmarks 1 million for education."
-"verb + preposition";"elaborate";"on";""
-"verb + preposition";"emerge";"from";""
-"verb + preposition";"escape";"from";""
-"verb + preposition";"excuse";"for";""
-"verb + preposition";"exempt";"from";""
-"verb + preposition";"expel";"from";""
-"verb + preposition";"explain";"to";""
-"verb + preposition";"forbid";"from";""
-"verb + preposition";"forget";"about";""
-"verb + preposition";"forgive";"for";""
-"verb + preposition";"gradutate";"from";""
-"verb + preposition";"happen";"to";""
-"verb + preposition";"hear";"from";""
-"verb + preposition";"help";"with";""
-"verb + preposition";"hide";"from";""
-"verb + preposition";"implicate";"in";""
+"verb + preposition";"elaborate";"on";"test
+test"
+"verb + preposition";"emerge";"from";"test
+test"
+"verb + preposition";"escape";"from";"test
+test"
+"verb + preposition";"excuse";"for";"test
+test"
+"verb + preposition";"exempt";"from";"test
+test"
+"verb + preposition";"expel";"from";"test
+test"
+"verb + preposition";"explain";"to";"test
+test"
+"verb + preposition";"forbid";"from";"test
+test"
+"verb + preposition";"forget";"about";"test
+test"
+"verb + preposition";"forgive";"for";"test
+test"
+"verb + preposition";"gradutate";"from";"test
+test"
+"verb + preposition";"happen";"to";"test
+test"
+"verb + preposition";"hear";"from";"test
+test"
+"verb + preposition";"help";"with";"test
+test"
+"verb + preposition";"hide";"from";"test
+test"
+"verb + preposition";"implicate";"in";"test
+test"
 "verb + preposition";"impose";"on";"He imposes restrictions on his child."
-"verb + preposition";"insist";"on";""
-"verb + preposition";"introduce";"to";""
-"verb + preposition";"invite";"to";""
-"verb + preposition";"involve";"in";""
-"verb + preposition";"keep";"for";""
-"verb + preposition";"know";"about";""
-"verb + preposition";"laugh";"about";""
-"verb + preposition";"listen";"to";""
-"verb + preposition";"matter";"to";""
-"verb + preposition";"meet";"with";""
-"verb + preposition";"object";"to";""
-"verb + preposition";"pack";"with";""
-"verb + preposition";"participate";"in";""
-"verb + preposition";"pay";"for";""
-"verb + preposition";"play";"on";""
+"verb + preposition";"insist";"on";"test
+test"
+"verb + preposition";"introduce";"to";"test
+test"
+"verb + preposition";"invite";"to";"test
+test"
+"verb + preposition";"involve";"in";"test
+test"
+"verb + preposition";"keep";"for";"test
+test"
+"verb + preposition";"know";"about";"test
+test"
+"verb + preposition";"laugh";"about";"test
+test"
+"verb + preposition";"listen";"to";"test
+test"
+"verb + preposition";"matter";"to";"test
+test"
+"verb + preposition";"meet";"with";"test
+test"
+"verb + preposition";"object";"to";"test
+test"
+"verb + preposition";"pack";"with";"test
+test"
+"verb + preposition";"participate";"in";"test
+test"
+"verb + preposition";"pay";"for";"test
+test"
+"verb + preposition";"play";"on";"test
+test"
 "verb + preposition";"plead";"with";"He pleads with his parent to give him money."
-"verb + preposition";"prefer";"to";""
-"verb + preposition";"prepare";"for";""
-"verb + preposition";"prevent";"from";""
-"verb + preposition";"pride";"on";""
-"verb + preposition";"prohibit";"from";""
-"verb + preposition";"protect";"from";""
-"verb + preposition";"protest";"about";""
-"verb + preposition";"provide";"with";""
-"verb + preposition";"react";"to";""
-"verb + preposition";"recover";"from";""
-"verb + preposition";"refer";"to";""
-"verb + preposition";"refrain";"from";""
-"verb + preposition";"rely";"on";""
-"verb + preposition";"rescue";"from";""
-"verb + preposition";"resign";"from";""
-"verb + preposition";"resort";"to";""
-"verb + preposition";"respond";"to";""
-"verb + preposition";"rest";"from";""
+"verb + preposition";"prefer";"to";"test
+test"
+"verb + preposition";"prepare";"for";"test
+test"
+"verb + preposition";"prevent";"from";"test
+test"
+"verb + preposition";"pride";"on";"test
+test"
+"verb + preposition";"prohibit";"from";"test
+test"
+"verb + preposition";"protect";"from";"test
+test"
+"verb + preposition";"protest";"about";"test
+test"
+"verb + preposition";"provide";"with";"test
+test"
+"verb + preposition";"react";"to";"test
+test"
+"verb + preposition";"recover";"from";"test
+test"
+"verb + preposition";"refer";"to";"test
+test"
+"verb + preposition";"refrain";"from";"test
+test"
+"verb + preposition";"rely";"on";"test
+test"
+"verb + preposition";"rescue";"from";"test
+test"
+"verb + preposition";"resign";"from";"test
+test"
+"verb + preposition";"resort";"to";"test
+test"
+"verb + preposition";"respond";"to";"test
+test"
+"verb + preposition";"rest";"from";"test
+test"
 "verb + preposition";"result";"from/in";"It results from hard work.\nThe disease results in his death."
-"verb + preposition";"save";"from";""
+"verb + preposition";"save";"from";"test
+test"
 "verb + preposition";"scold";"for";"He scolds his kid for his bad behavior."
-"verb + preposition";"scream";"at";""
-"verb + preposition";"search";"for";""
+"verb + preposition";"scream";"at";"test
+test"
+"verb + preposition";"search";"for";"test
+test"
 "verb + preposition";"see";"to";"I see to these tasks."
-"verb + preposition";"separate";"from";""
+"verb + preposition";"separate";"from";"test
+test"
 "verb + preposition";"shout";"at/to";"at for aggressive, to normal"
-"verb + preposition";"speak";"to/with";""
-"verb + preposition";"specialise";"in";""
-"verb + preposition";"stem";"from";""
-"verb + preposition";"stop";"from";""
-"verb + preposition";"subject";"to";""
-"verb + preposition";"substitute";"for";""
-"verb + preposition";"substract";"from";""
-"verb + preposition";"succeed";"in";""
-"verb + preposition";"suffer";"from";""
-"verb + preposition";"talk";"to";""
-"verb + preposition";"tamper";"with";""
-"verb + preposition";"thank";"for";""
-"verb + preposition";"think";"about";""
+"verb + preposition";"speak";"to/with";"test
+test"
+"verb + preposition";"specialise";"in";"test
+test"
+"verb + preposition";"stem";"from";"test
+test"
+"verb + preposition";"stop";"from";"test
+test"
+"verb + preposition";"subject";"to";"test
+test"
+"verb + preposition";"substitute";"for";"test
+test"
+"verb + preposition";"substract";"from";"test
+test"
+"verb + preposition";"succeed";"in";"test
+test"
+"verb + preposition";"suffer";"from";"test
+test"
+"verb + preposition";"talk";"to";"test
+test"
+"verb + preposition";"tamper";"with";"test
+test"
+"verb + preposition";"thank";"for";"test
+test"
+"verb + preposition";"think";"about";"test
+test"
 "verb + preposition";"throw";"at/to";"at for aggressive, to normal"
 "verb + preposition";"trust";"in";"trust in something: having strong believe.\nI trust you with my life."
-"verb + preposition";"vote";"for";""
-"verb + preposition";"vouch";"for";""
-"verb + preposition";"wait";"for";""
-"verb + preposition";"wish";"for";""
+"verb + preposition";"vote";"for";"test
+test"
+"verb + preposition";"vouch";"for";"test
+test"
+"verb + preposition";"wait";"for";"test
+test"
+"verb + preposition";"wish";"for";"test
+test"
 "verb + preposition";"work";"for/on";"He works for a company.\nHe works on a new project."
-"verb + preposition";"worry";"about";""
+"verb + preposition";"worry";"about";"test
+test"
